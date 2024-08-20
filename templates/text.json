@@ -1,0 +1,772 @@
+[
+    {
+        "img": "https://imgur.com/E4KOe8b.png",
+        "elements": {
+            "layers": {
+                "2aaea525-bd7c-47ca-ba1d-2aab160e6d36": {
+                    "type": {
+                        "resolvedName": "TextLayer"
+                    },
+                    "child": [],
+                    "props": {
+                        "text": "<p style=\"font-family: Libre Franklin; color: rgb(255, 223, 43); font-size: 20px; text-align: center\"><strong>SALE</strong></p>",
+                        "fonts": [
+                            {
+                                "name": "Libre Franklin",
+                                "fonts": [
+                                    {
+                                        "urls": [
+                                            "https://lidojs-fonts.s3.us-east-2.amazonaws.com/LibreFranklin/LibreFranklin-Bold.woff2"
+                                        ],
+                                        "style": "Bold"
+                                    },
+                                    {
+                                        "urls": [
+                                            "https://lidojs-fonts.s3.us-east-2.amazonaws.com/LibreFranklin/LibreFranklin-Bold.woff2"
+                                        ],
+                                        "style": "Bold_Italic"
+                                    },
+                                    {
+                                        "urls": [
+                                            "https://lidojs-fonts.s3.us-east-2.amazonaws.com/LibreFranklin/LibreFranklin-Bold.woff2"
+                                        ],
+                                        "style": "Bold"
+                                    },
+                                    {
+                                        "urls": [
+                                            "https://lidojs-fonts.s3.us-east-2.amazonaws.com/LibreFranklin/LibreFranklin-Regular.woff2"
+                                        ]
+                                    },
+                                    {
+                                        "urls": [
+                                            "https://lidojs-fonts.s3.us-east-2.amazonaws.com/LibreFranklin/LibreFranklin-Regular.woff2"
+                                        ],
+                                        "style": "Italic"
+                                    },
+                                    {
+                                        "urls": [
+                                            "https://lidojs-fonts.s3.us-east-2.amazonaws.com/LibreFranklin/LibreFranklin-Regular.woff2"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "scale": 9.5,
+                        "colors": [
+                            "rgb(255, 223, 43)"
+                        ],
+                        "effect": {
+                            "name": "hollow",
+                            "settings": {
+                                "thickness": 50
+                            }
+                        },
+                        "rotate": 0,
+                        "boxSize": {
+                            "x": 421,
+                            "y": 423,
+                            "width": 732.5,
+                            "height": 266
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 172
+                        },
+                        "fontSizes": [
+                            20
+                        ]
+                    },
+                    "locked": false,
+                    "parent": "ff937e49-1a5a-41ec-abdd-5e589ee6e1fd"
+                },
+                "7e599141-bdf5-4d5c-a34c-3be803015c74": {
+                    "type": {
+                        "resolvedName": "TextLayer"
+                    },
+                    "child": [],
+                    "props": {
+                        "text": "<p style=\"font-family: Libre Franklin; color: rgb(255, 223, 43); font-size: 20px; text-align: center\"><strong>BIG</strong></p>",
+                        "fonts": [
+                            {
+                                "name": "Libre Franklin",
+                                "fonts": [
+                                    {
+                                        "urls": [
+                                            "https://lidojs-fonts.s3.us-east-2.amazonaws.com/LibreFranklin/LibreFranklin-Bold.woff2"
+                                        ],
+                                        "style": "Bold"
+                                    },
+                                    {
+                                        "urls": [
+                                            "https://lidojs-fonts.s3.us-east-2.amazonaws.com/LibreFranklin/LibreFranklin-Bold.woff2"
+                                        ],
+                                        "style": "Bold_Italic"
+                                    },
+                                    {
+                                        "urls": [
+                                            "https://lidojs-fonts.s3.us-east-2.amazonaws.com/LibreFranklin/LibreFranklin-Bold.woff2"
+                                        ],
+                                        "style": "Bold"
+                                    },
+                                    {
+                                        "urls": [
+                                            "https://lidojs-fonts.s3.us-east-2.amazonaws.com/LibreFranklin/LibreFranklin-Regular.woff2"
+                                        ]
+                                    },
+                                    {
+                                        "urls": [
+                                            "https://lidojs-fonts.s3.us-east-2.amazonaws.com/LibreFranklin/LibreFranklin-Regular.woff2"
+                                        ],
+                                        "style": "Italic"
+                                    },
+                                    {
+                                        "urls": [
+                                            "https://lidojs-fonts.s3.us-east-2.amazonaws.com/LibreFranklin/LibreFranklin-Regular.woff2"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "scale": 9.5,
+                        "colors": [
+                            "rgb(255, 223, 43)"
+                        ],
+                        "rotate": 0,
+                        "boxSize": {
+                            "x": 424,
+                            "y": 257,
+                            "width": 732.5,
+                            "height": 266
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "fontSizes": [
+                            20
+                        ]
+                    },
+                    "locked": false,
+                    "parent": "ff937e49-1a5a-41ec-abdd-5e589ee6e1fd"
+                },
+                "ff937e49-1a5a-41ec-abdd-5e589ee6e1fd": {
+                    "type": {
+                        "resolvedName": "GroupLayer"
+                    },
+                    "child": [
+                        "7e599141-bdf5-4d5c-a34c-3be803015c74",
+                        "2aaea525-bd7c-47ca-ba1d-2aab160e6d36"
+                    ],
+                    "props": {
+                        "scale": 1,
+                        "rotate": 0,
+                        "boxSize": {
+                            "width": 732.5,
+                            "height": 438
+                        },
+                        "position": {
+                            "x": 422,
+                            "y": 235
+                        }
+                    },
+                    "locked": false,
+                    "parent": "ROOT"
+                }
+            },
+            "rootId": "ff937e49-1a5a-41ec-abdd-5e589ee6e1fd"
+        }
+    },
+    {
+        "img": "https://imgur.com/XdJCRjX.png",
+        "elements": {
+            "layers": {
+                "6fccf84f-b3cd-4e9c-88bb-a10021e83205": {
+                    "type": {
+                        "resolvedName": "TextLayer"
+                    },
+                    "child": [],
+                    "props": {
+                        "text": "<p style=\"font-family: Oswald; color: rgb(40, 255, 13); font-size: 162.667px; text-align: center\"><strong>WORKOUT</strong></p>",
+                        "fonts": [
+                            {
+                                "name": "Oswald",
+                                "fonts": [
+                                    {
+                                        "urls": [
+                                            "https://lidojs-fonts.s3.us-east-2.amazonaws.com/Oswald/Oswald-Bold.woff2"
+                                        ],
+                                        "style": "Bold"
+                                    },
+                                    {
+                                        "urls": [
+                                            "https://lidojs-fonts.s3.us-east-2.amazonaws.com/Oswald/Oswald-Regular.woff2"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "scale": 1,
+                        "colors": [
+                            "rgb(40, 255, 13)"
+                        ],
+                        "effect": {
+                            "name": "echo",
+                            "settings": {
+                                "color": "rgb(0, 87, 255)",
+                                "offset": 33,
+                                "direction": 53
+                            }
+                        },
+                        "rotate": 0,
+                        "boxSize": {
+                            "x": 379,
+                            "y": 300,
+                            "width": 753.5333333333335,
+                            "height": 228
+                        },
+                        "position": {
+                            "x": 373,
+                            "y": 317
+                        },
+                        "fontSizes": [
+                            162.667
+                        ]
+                    },
+                    "locked": false,
+                    "parent": "ROOT"
+                }
+            },
+            "rootId": "6fccf84f-b3cd-4e9c-88bb-a10021e83205"
+        }
+    },
+    {
+        "img": "https://imgur.com/BBMXfK6.png",
+        "elements": {
+            "layers": {
+                "7740b655-a0e2-44ec-9ecd-249ec6367582": {
+                    "type": {
+                        "resolvedName": "TextLayer"
+                    },
+                    "child": [],
+                    "props": {
+                        "text": "<p style=\"font-family: Parisienne; color: rgb(255, 124, 191); font-size: 162.667px; text-align: center\">You&apos;re Invited!</p>",
+                        "fonts": [
+                            {
+                                "name": "Parisienne",
+                                "fonts": [
+                                    {
+                                        "urls": [
+                                            "https://lidojs-fonts.s3.us-east-2.amazonaws.com/Parisienne/Parisienne-Regular.woff2"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "scale": 1,
+                        "colors": [
+                            "rgb(255, 124, 191)"
+                        ],
+                        "effect": {
+                            "name": "shadow",
+                            "settings": {
+                                "blur": 9,
+                                "color": "rgb(255, 0, 153)",
+                                "offset": 16,
+                                "direction": 63,
+                                "transparency": 77
+                            }
+                        },
+                        "rotate": 0,
+                        "boxSize": {
+                            "x": 45,
+                            "y": 167,
+                            "width": 764.5333333333335,
+                            "height": 455
+                        },
+                        "position": {
+                            "x": 371,
+                            "y": 229
+                        },
+                        "fontSizes": [
+                            162.7
+                        ]
+                    },
+                    "locked": false,
+                    "parent": "ROOT"
+                }
+            },
+            "rootId": "7740b655-a0e2-44ec-9ecd-249ec6367582"
+        }
+    },
+    {
+        "img": "https://imgur.com/GNLDUe7.png",
+        "elements": {
+            "layers": {
+                "3881250b-3b4e-437c-9fc2-e671f8a475e7": {
+                    "type": {
+                        "resolvedName": "TextLayer"
+                    },
+                    "child": [],
+                    "props": {
+                        "text": "<p style=\"font-family: Chewy; color: rgb(0, 0, 0); font-size: 42px; text-align: center\"><strong>Welcome little one!</strong></p>",
+                        "fonts": [
+                            {
+                                "name": "Chewy",
+                                "fonts": [
+                                    {
+                                        "urls": [
+                                            "https://lidojs-fonts.s3.us-east-2.amazonaws.com/Chewy/Chewy-Regular.woff2"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "scale": 1,
+                        "colors": [
+                            "rgb(0, 0, 0)"
+                        ],
+                        "rotate": 0,
+                        "boxSize": {
+                            "x": 615,
+                            "y": 381,
+                            "width": 183.5,
+                            "height": 118
+                        },
+                        "position": {
+                            "x": 39.20833333333303,
+                            "y": 0
+                        },
+                        "fontSizes": [
+                            42
+                        ]
+                    },
+                    "locked": false,
+                    "parent": "7740b655-a0e2-44ec-9ecd-249ec6367582"
+                },
+                "7740b655-a0e2-44ec-9ecd-249ec6367582": {
+                    "type": {
+                        "resolvedName": "GroupLayer"
+                    },
+                    "child": [
+                        "3881250b-3b4e-437c-9fc2-e671f8a475e7",
+                        "9a449477-73de-4894-b5f6-5b8fb5e998f0"
+                    ],
+                    "props": {
+                        "scale": 1,
+                        "rotate": 0,
+                        "boxSize": {
+                            "width": 261.91666666666606,
+                            "height": 130.5
+                        },
+                        "position": {
+                            "x": 575.791666666667,
+                            "y": 381
+                        }
+                    },
+                    "locked": false,
+                    "parent": "ROOT"
+                },
+                "9a449477-73de-4894-b5f6-5b8fb5e998f0": {
+                    "type": {
+                        "resolvedName": "TextLayer"
+                    },
+                    "child": [],
+                    "props": {
+                        "text": "<p style=\"font-family: Oswald; color: rgb(0, 0, 0); font-size: 18px; text-transform: uppercase; text-align: center\"><strong>Baby Taylor Finn</strong></p>",
+                        "fonts": [
+                            {
+                                "name": "Oswald",
+                                "fonts": [
+                                    {
+                                        "urls": [
+                                            "https://lidojs-fonts.s3.us-east-2.amazonaws.com/Oswald/Oswald-Bold.woff2"
+                                        ],
+                                        "style": "Bold"
+                                    },
+                                    {
+                                        "urls": [
+                                            "https://lidojs-fonts.s3.us-east-2.amazonaws.com/Oswald/Oswald-Regular.woff2"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "scale": 1,
+                        "colors": [
+                            "rgb(0, 0, 0)"
+                        ],
+                        "effect": null,
+                        "rotate": 0,
+                        "boxSize": {
+                            "x": 577,
+                            "y": 492,
+                            "width": 261.91666666666606,
+                            "height": 25
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 105.5
+                        },
+                        "fontSizes": [
+                            18
+                        ]
+                    },
+                    "locked": false,
+                    "parent": "7740b655-a0e2-44ec-9ecd-249ec6367582"
+                }
+            },
+            "rootId": "7740b655-a0e2-44ec-9ecd-249ec6367582"
+        }
+    },
+    {
+        "img": "https://imgur.com/1B4LbXY.png",
+        "elements": {
+            "layers": {
+                "79fbe179-9a59-4d3b-a1bb-585f28938680": {
+                    "type": {
+                        "resolvedName": "TextLayer"
+                    },
+                    "child": [],
+                    "props": {
+                        "text": "<p style=\"font-family: Ultra; color: rgb(255, 102, 196); font-size: 18px; text-transform: uppercase; text-align: center\">22</p>",
+                        "fonts": [
+                            {
+                                "name": "Ultra",
+                                "fonts": [
+                                    {
+                                        "urls": [
+                                            "https://lidojs-fonts.s3.us-east-2.amazonaws.com/Ultra/Ultra-Regular.woff2"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "scale": 21.856127538399335,
+                        "colors": [
+                            "rgb(255, 102, 196)"
+                        ],
+                        "effect": {
+                            "name": "hollow",
+                            "settings": {
+                                "thickness": 22
+                            }
+                        },
+                        "rotate": 0,
+                        "boxSize": {
+                            "x": 401.285126560212,
+                            "y": 234.6936820014305,
+                            "width": 791.5738477987601,
+                            "height": 546.4031884599833
+                        },
+                        "position": {
+                            "x": 4.3734380000726105,
+                            "y": 135.44104968848728
+                        },
+                        "fontSizes": [
+                            18
+                        ]
+                    },
+                    "locked": false,
+                    "parent": "9b272b65-9ece-4acd-81c5-6ea9174693a4"
+                },
+                "9b272b65-9ece-4acd-81c5-6ea9174693a4": {
+                    "type": {
+                        "resolvedName": "GroupLayer"
+                    },
+                    "child": [
+                        "effc0138-2837-4a20-82a3-30625eee2577",
+                        "79fbe179-9a59-4d3b-a1bb-585f28938680"
+                    ],
+                    "props": {
+                        "scale": 1,
+                        "rotate": 0,
+                        "boxSize": {
+                            "width": 800.3207237989052,
+                            "height": 681.8442381484706
+                        },
+                        "position": {
+                            "x": 397,
+                            "y": 97.2526323129432
+                        }
+                    },
+                    "locked": false,
+                    "parent": "ROOT"
+                },
+                "effc0138-2837-4a20-82a3-30625eee2577": {
+                    "type": {
+                        "resolvedName": "TextLayer"
+                    },
+                    "child": [],
+                    "props": {
+                        "text": "<p style=\"font-family: Oswald; color: rgb(255, 102, 196); font-size: 42px; text-transform: uppercase; text-align: center\"><strong>Tuning</strong></p>",
+                        "fonts": [
+                            {
+                                "name": "Oswald",
+                                "fonts": [
+                                    {
+                                        "urls": [
+                                            "https://lidojs-fonts.s3.us-east-2.amazonaws.com/Oswald/Oswald-Bold.woff2"
+                                        ],
+                                        "style": "Bold"
+                                    },
+                                    {
+                                        "urls": [
+                                            "https://lidojs-fonts.s3.us-east-2.amazonaws.com/Oswald/Oswald-Regular.woff2"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "scale": 4.285126560212017,
+                        "colors": [
+                            "rgb(255, 102, 196)"
+                        ],
+                        "rotate": 0,
+                        "boxSize": {
+                            "x": 397,
+                            "y": 97.2526323129432,
+                            "width": 800.3207237989052,
+                            "height": 252.822467052509
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "fontSizes": [
+                            42
+                        ]
+                    },
+                    "locked": false,
+                    "parent": "9b272b65-9ece-4acd-81c5-6ea9174693a4"
+                }
+            },
+            "rootId": "9b272b65-9ece-4acd-81c5-6ea9174693a4"
+        }
+    },
+    {
+        "img": "https://imgur.com/K4iXMrW.png",
+        "elements": {
+            "layers": {
+                "3bb063f0-58f3-43bb-bdea-4901472cfcdd": {
+                    "type": {
+                        "resolvedName": "TextLayer"
+                    },
+                    "child": [],
+                    "props": {
+                        "text": "<p style=\"font-family: Oswald; color: rgb(0, 0, 0); font-size: 18px; text-transform: uppercase; text-align: center\"><strong>bella &amp; bryle</strong></p>",
+                        "fonts": [
+                            {
+                                "name": "Oswald",
+                                "fonts": [
+                                    {
+                                        "urls": [
+                                            "https://lidojs-fonts.s3.us-east-2.amazonaws.com/Oswald/Oswald-Bold.woff2"
+                                        ],
+                                        "style": "Bold"
+                                    },
+                                    {
+                                        "urls": [
+                                            "https://lidojs-fonts.s3.us-east-2.amazonaws.com/Oswald/Oswald-Regular.woff2"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "scale": 1,
+                        "colors": [
+                            "rgb(0, 0, 0)"
+                        ],
+                        "effect": null,
+                        "rotate": 0,
+                        "boxSize": {
+                            "x": 644,
+                            "y": 486,
+                            "width": 261.91666666666606,
+                            "height": 25
+                        },
+                        "position": {
+                            "x": 53.29166666666697,
+                            "y": 129
+                        },
+                        "fontSizes": [
+                            18
+                        ]
+                    },
+                    "locked": false,
+                    "parent": "fd79eeb2-055b-4824-8fd8-226538e992b9"
+                },
+                "8847f384-70bf-4767-b324-33504759f883": {
+                    "type": {
+                        "resolvedName": "TextLayer"
+                    },
+                    "child": [],
+                    "props": {
+                        "text": "<p style=\"font-family: Oswald; color: rgb(0, 0, 0); font-size: 18px; text-align: center\">We would like to express our sincerest gratitude for celebrating our wedding with us.</p>",
+                        "fonts": [
+                            {
+                                "name": "Oswald",
+                                "fonts": [
+                                    {
+                                        "urls": [
+                                            "https://lidojs-fonts.s3.us-east-2.amazonaws.com/Oswald/Oswald-Bold.woff2"
+                                        ],
+                                        "style": "Bold"
+                                    },
+                                    {
+                                        "urls": [
+                                            "https://lidojs-fonts.s3.us-east-2.amazonaws.com/Oswald/Oswald-Regular.woff2"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "scale": 1,
+                        "colors": [
+                            "rgb(0, 0, 0)"
+                        ],
+                        "effect": null,
+                        "rotate": 0,
+                        "boxSize": {
+                            "x": 623,
+                            "y": 415,
+                            "width": 309.91666666666606,
+                            "height": 50
+                        },
+                        "position": {
+                            "x": 29.29166666666697,
+                            "y": 67
+                        },
+                        "fontSizes": [
+                            18
+                        ]
+                    },
+                    "locked": false,
+                    "parent": "fd79eeb2-055b-4824-8fd8-226538e992b9"
+                },
+                "dc71bd5b-ca13-4a32-b461-d8642dd77818": {
+                    "type": {
+                        "resolvedName": "TextLayer"
+                    },
+                    "child": [],
+                    "props": {
+                        "text": "<p style=\"font-family: Parisienne; color: rgb(0, 0, 0); font-size: 42px; text-align: center\">Thank you for coming!</p>",
+                        "fonts": [
+                            {
+                                "name": "Parisienne",
+                                "fonts": [
+                                    {
+                                        "urls": [
+                                            "https://lidojs-fonts.s3.us-east-2.amazonaws.com/Parisienne/Parisienne-Regular.woff2"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "scale": 1,
+                        "colors": [
+                            "rgb(0, 0, 0)"
+                        ],
+                        "rotate": 0,
+                        "boxSize": {
+                            "x": 594,
+                            "y": 350,
+                            "width": 368.5,
+                            "height": 59
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "fontSizes": [
+                            42
+                        ]
+                    },
+                    "locked": false,
+                    "parent": "fd79eeb2-055b-4824-8fd8-226538e992b9"
+                },
+                "fd79eeb2-055b-4824-8fd8-226538e992b9": {
+                    "type": {
+                        "resolvedName": "GroupLayer"
+                    },
+                    "child": [
+                        "dc71bd5b-ca13-4a32-b461-d8642dd77818",
+                        "8847f384-70bf-4767-b324-33504759f883",
+                        "3bb063f0-58f3-43bb-bdea-4901472cfcdd"
+                    ],
+                    "props": {
+                        "scale": 1,
+                        "rotate": 0,
+                        "boxSize": {
+                            "width": 368.5,
+                            "height": 154
+                        },
+                        "position": {
+                            "x": 594,
+                            "y": 350
+                        }
+                    },
+                    "locked": false,
+                    "parent": "ROOT"
+                }
+            },
+            "rootId": "fd79eeb2-055b-4824-8fd8-226538e992b9"
+        }
+    },
+    {
+        "img": "https://imgur.com/M7yqmqo.png",
+        "elements": {
+            "layers": {
+                "c890cf04-0bb1-4520-944c-a0af26ef4a5f": {
+                    "type": {
+                        "resolvedName": "TextLayer"
+                    },
+                    "child": [],
+                    "props": {
+                        "text": "<p style=\"font-family: Fascinate; color: rgb(255, 253, 71); font-size: 162.667px; text-align: center\">enjoy</p>",
+                        "fonts": [
+                            {
+                                "name": "Fascinate",
+                                "fonts": [
+                                    {
+                                        "urls": [
+                                            "https://lidojs-fonts.s3.us-east-2.amazonaws.com/Fascinate/Fascinate-Regular.woff2"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "scale": 1,
+                        "colors": [
+                            "rgb(255, 253, 71)"
+                        ],
+                        "effect": {
+                            "name": "echo",
+                            "settings": {
+                                "color": "rgb(236, 0, 255)",
+                                "offset": 40,
+                                "direction": 53
+                            }
+                        },
+                        "rotate": 0,
+                        "boxSize": {
+                            "x": 385,
+                            "y": 336,
+                            "width": 760.5333333333335,
+                            "height": 228
+                        },
+                        "position": {
+                            "x": 385,
+                            "y": 336
+                        },
+                        "fontSizes": [
+                            162.7
+                        ]
+                    },
+                    "locked": false,
+                    "parent": "ROOT"
+                }
+            },
+            "rootId": "c890cf04-0bb1-4520-944c-a0af26ef4a5f"
+        }
+    }
+]
